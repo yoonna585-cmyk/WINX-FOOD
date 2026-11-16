@@ -1,0 +1,15 @@
+{
+  "name": "Winx Food - Nguyễn Bá Tuyển",
+  "short_name": "WinxFood",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff5722",
+  "icons": [
+    {
+      "src": "/IMG_1611.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
